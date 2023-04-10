@@ -20,7 +20,7 @@
 
 ### Built With
 
-* [![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Java&logoColor=orange)](https://www.java.com/en/)
+* [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/en/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
